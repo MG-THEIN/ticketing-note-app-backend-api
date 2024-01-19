@@ -1,5 +1,3 @@
-const allowedOrigins = [
-  "https://ticketing-note-app-frontend-react-app.onrender.com",
-]
+const allowedOrigins = ["https://ticketing-app.onrender.com"]
 
 module.exports = allowedOrigins
